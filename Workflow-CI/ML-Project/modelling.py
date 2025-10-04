@@ -6,6 +6,8 @@ import xgboost as xgb
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 import dagshub
+import joblib
+
 
 # =========================
 # 0. Setup DagsHub & MLflow
@@ -71,3 +73,10 @@ with mlflow.start_run():
     # Classification Report
     print("\n📑 Classification Report:")
     print(classification_report(y_test, preds))
+
+
+# =========================
+# 6. Save model ke file lokal
+# =========================
+joblib.dump(model, "model.pkl")
+print("💾 Model saved as model.pkl")
