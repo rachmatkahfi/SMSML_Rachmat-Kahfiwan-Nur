@@ -1,1 +1,20 @@
-https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfiwan-Nur/tree/main/Workflow-CI
+Workflow :
+
+MLProject:
+    modelling.py :
+        https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/modelling.py
+    conda.yaml :
+        https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/conda.yaml
+    MLProject :
+        https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/MLmodel
+    data_balita_preprocessing :
+        https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/data_balita_preprocessing.csv
+    Dockerhub :
+
+    File tambahan:
+    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/Modelling_tuning.py
+    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/model.pkl
+    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/model.xgb
+    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/preprocess.py
+    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/python_env.yaml
+    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/requirements.txt
