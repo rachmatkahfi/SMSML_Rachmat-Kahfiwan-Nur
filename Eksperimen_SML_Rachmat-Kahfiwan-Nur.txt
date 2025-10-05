@@ -1,0 +1,7 @@
+data_balita_raw : https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfiwan-Nur/blob/main/Eksperimen_SML_Rachmat-Kahfiwan-Nur/data_balita_raw/data_balita.csv
+
+Eksperimen_Rachmat_Kahfiwan_Nur.ipynb : https://colab.research.google.com/drive/1oO1xIFrfDOqAznatXq0R-fNyT2ulcdvn?usp=sharing
+
+automate_rachmat_kahfiwan_nur.py : https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfiwan-Nur/blob/main/Eksperimen_SML_Rachmat-Kahfiwan-Nur/preprocessing/automate_rachmat_kahfiwan_nur.py
+
+data_balita_preprocessing.csv : https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfiwan-Nur/blob/main/Eksperimen_SML_Rachmat-Kahfiwan-Nur/preprocessing/data_balita_preprocessing.csv
