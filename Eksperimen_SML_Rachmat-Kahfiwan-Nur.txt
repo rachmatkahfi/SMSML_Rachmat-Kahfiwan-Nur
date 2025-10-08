@@ -1,13 +1,1 @@
-Workflow : 
-    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/preprocess.yml 
-
-data_balita_raw : 
-    https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/data_balita.csv
-
-preprocessing :
-    Eksperimen_Rachmat_Kahfiwan_Nur.ipynb : 
-            https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/Eksperimen_Rachmat_Kahfiwan_Nur.ipynb
-    automate_rachmat_kahfiwan_nur.py : 
-            https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/automate_rachmat_kahfiwan_nur.py
-    data_balita_preprocessing.csv : 
-           https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfi/blob/main/data_balita_preprocessing.csv
+https://github.com/rachmatkahfi/SMSML_Rachmat-Kahfiwan-N/tree/main/Eksperimen_SML_Rachmat-Kahfiwan-Nur
