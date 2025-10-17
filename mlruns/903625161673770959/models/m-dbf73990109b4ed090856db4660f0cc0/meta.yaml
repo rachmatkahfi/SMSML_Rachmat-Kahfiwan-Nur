@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ASUS/OneDrive/Documents/GitHub/SMSML_Rachmat-Kahfiwan-Nur/mlruns/903625161673770959/models/m-dbf73990109b4ed090856db4660f0cc0/artifacts
+creation_timestamp: 1760705029920
+experiment_id: '903625161673770959'
+last_updated_timestamp: 1760705042013
+model_id: m-dbf73990109b4ed090856db4660f0cc0
+model_type: null
+name: model
+source_run_id: 56d0822316184d27868bdc70fad7e443
+status: 2
+status_message: null

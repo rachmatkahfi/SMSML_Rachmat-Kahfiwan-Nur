@@ -19,7 +19,7 @@ mlflow.set_tracking_uri("https://dagshub.com/rachmatkahfi/Eksperimen_SML_Rachmat
 # =========================
 # 1. Load Dataset
 # =========================
-df = pd.read_csv("C:/Users/ASUS/OneDrive/Documents/GitHub/Membangun_model/data_balita_preprocessing.csv")
+df = pd.read_csv("data_balita_preprocessing.csv")
 
 # Cek kolom tersedia
 print("Columns in dataset:", df.columns.tolist())

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/ASUS/OneDrive/Documents/GitHub/SMSML_Rachmat-Kahfiwan-Nur/mlruns/903625161673770959/models/m-dbf73990109b4ed090856db4660f0cc0/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.7
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.4.0
+model_id: m-dbf73990109b4ed090856db4660f0cc0
+model_size_bytes: 1600466
+model_uuid: m-dbf73990109b4ed090856db4660f0cc0
+prompts: null
+run_id: 56d0822316184d27868bdc70fad7e443
+utc_time_created: '2025-10-17 12:43:49.994083'

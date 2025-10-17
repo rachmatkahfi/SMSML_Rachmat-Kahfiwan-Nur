@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ASUS/OneDrive/Documents/GitHub/SMSML_Rachmat-Kahfiwan-Nur/Membangun_model/mlruns/0/models/m-6880e2482e84412fbd01b7871b5dedd9/artifacts
+creation_timestamp: 1760702394680
+experiment_id: '0'
+last_updated_timestamp: 1760702411060
+model_id: m-6880e2482e84412fbd01b7871b5dedd9
+model_type: null
+name: model
+source_run_id: c239fe5d79f44ffe95db4322e170235b
+status: 2
+status_message: null
